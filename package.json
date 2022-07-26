@@ -1,10 +1,26 @@
 {
-    "name": "shoebox-parser",
-    "version": "0.0.1",
+    "name": "@lightgarden/shoebox-parser",
+    "version": "0.0.2",
     "description": "Parse SIL shoebox files",
     "main": "index.js",
-    "repository": "https://github.com/light-garden-projects/shoebox-parser.git",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/light-garden-projects/shoebox-parser.git"
+    },
     "author": "Dan Kennedy <dannykennedy@email.com>",
     "license": "MIT",
-    "private": false
+    "private": false,
+    "bugs": {
+        "url": "https://github.com/light-garden-projects/shoebox-parser/issues"
+    },
+    "homepage": "https://github.com/light-garden-projects/shoebox-parser#readme",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "shoebox",
+        "SIL",
+        "json",
+        "parse"
+    ]
 }
