@@ -1,0 +1,10 @@
+{
+    "name": "shoebox-parser",
+    "version": "0.0.1",
+    "description": "Parse SIL shoebox files",
+    "main": "index.js",
+    "repository": "https://github.com/light-garden-projects/shoebox-parser.git",
+    "author": "Dan Kennedy <dannykennedy@email.com>",
+    "license": "MIT",
+    "private": false
+}
